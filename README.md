@@ -1,2 +1,2 @@
 # Python-DeCal-Homework
-Hom
+Homework for DeCal.
