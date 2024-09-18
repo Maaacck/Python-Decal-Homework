@@ -1,0 +1,20 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	
+   "cd" gets you to a new directory. "ls" shows you the contents of a directory. "mkdir' creates a directory. My computer's terminal is written in C++. 
+
+2. Do you have pets? What kind?
+
+   I have a dog named Lizzy.
+
+3. If you run across an error, what would your first course of action be?
+ 
+   Try to figure out the issue using resources like the internet or classmates and if not, go to one the instructors.
+
+4. Funniest thing that happened to you in high school.
+
+   During a robotics competition in 12th grade, when we had to alliance with another team, I proposed to them. I got on one knee, an held out a ziptie that was supposed
+   to represent the ring. After my "proposal," my alliance partner said "I do."
+
+5. What is a python script? (Keep it simple)	
+  
+   Python scripts are programs that can be executed. 
