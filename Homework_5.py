@@ -85,8 +85,6 @@ def secondLargest(planets):
     secondLargest = []
     index = np.argsort(planets, axis=0)[-2, :]
     secondLargest = planets[index, np.arange(planets.shape[1])]
-    #for i in range (0, len(planets)):
-     #   secondLargest.append(np.max(planets[0:, [i]]))
     return secondLargest
 
 print(planets)
